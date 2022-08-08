@@ -79,3 +79,5 @@
 '''
     git reset --hard
 '''
+
+## Изменение в локальном репозитории branch: new-feature
