@@ -80,4 +80,6 @@
     git reset --hard
 '''
 
+## Изменение в локальном репозитории branch: new-feature
+## Изменение в удаленном репозитории branch: new-feature
 ## Изменение в удаленном репозитории branch: master
